@@ -10,7 +10,7 @@
 
 ! chmod 600 ~/.kaggle/kaggle.json
 
-! kaggle datasets download taejoongyoon/mitbit-arrhythmia-database
+! kaggle datasets download dataset
 
 ! unzip gtsrb-german-traffic-sign
 
